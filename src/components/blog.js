@@ -1,6 +1,7 @@
 const blog = {
     name: "Salma's Blog",
     about: "I love coding and learning React!",
+    image: "https://via.placeholder.com/150",
     articles: [
         {
             title: "My First Article",
