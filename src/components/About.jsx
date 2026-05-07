@@ -1,7 +1,7 @@
 function About(props) {
     return (
         <aside>
-            <img
+          <img
             src={props.image || "https://via.placeholder.com/150"}
             alt="blog logo"
             />
