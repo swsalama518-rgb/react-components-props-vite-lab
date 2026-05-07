@@ -1,6 +1,6 @@
 import Header from "./Header";
-import About from "./About";
-import ArticleList from "./ArticleList";
+import About from "./components/About";
+import ArticleList from "./components/ArticleList";
 import blog from "./blog";
 
 function App() {
